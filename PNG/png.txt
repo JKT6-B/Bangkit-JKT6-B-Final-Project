@@ -1,1 +1,0 @@
-This Folder contains Report of Inception, Mobilenet and Siamese
