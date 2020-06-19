@@ -1,4 +1,4 @@
-#BANGKIT JKT6-B FINAL PROJECT
+# BANGKIT JKT6-B FINAL PROJECT
 
 ## Table Of Content
 * [Dataset](README.md#Dataset)
