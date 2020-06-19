@@ -1,3 +1,5 @@
+#BANGKIT JKT6-B FINAL PROJECT
+
 ## Table Of Content
 * [Dataset](README.md#Dataset)
 * [Problem](README.md#Problem)
@@ -41,5 +43,5 @@ model image to implement using this algorithm
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors][all-contributors] specification.
+This project follows the specification.
 Contributions of any kind welcome!
