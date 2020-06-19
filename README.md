@@ -12,4 +12,6 @@
 
  you can implement or using this technique for small dataset that has a high similarity like images in the Batik300's folder
  
+ PNG file is the screenshot of Result of ipynb's file
+ 
  
