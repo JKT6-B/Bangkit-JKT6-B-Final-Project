@@ -1,5 +1,5 @@
 # BANGKIT JKT6-B FINAL PROJECT
-Thank you to Bangkit program and thankyou to Google, Gojek, Tokopedia, and Traveloka for gave us the chance to learn about Machine Learning. This is the documentation from final project that bangkit gave us. This is may be not so great result and really far from perfect but this is our contribution as a team and we perform experiment using try and error for the perfect result. We hope this program can make people understand about simple model of batik in Indonesia.
+Thank you to Bangkit program and thank you to Google, Gojek, Tokopedia, and Traveloka for give us the chance to learn about Machine Learning. This is the documentation from final project that bangkit give to us. This is may be not so great result and really far from perfect but this is our contribution as a team and we perform experiment using try and error for the perfect result. We hope this program can make people understand about simple model of Batik in Indonesia.
 
 ## Table Of Content
 * [Dataset](README.md#Dataset)
