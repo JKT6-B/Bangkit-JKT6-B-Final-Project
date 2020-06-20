@@ -8,6 +8,7 @@ Thank you to Bangkit program and thankyou to Google, Gojek, Tokopedia, and Trave
 
 ## Dataset 
  We make sure to thank you to Mr Agus that provide us with [Batik300 dataset](https://github.com/agusekominarno/Batik) for public consumption. Batik300 datasets really help us to explore batik much more and gave us knowledge about batik. 
+ We also use [Bed furniture image Dataset](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018/) as helper to create binary classification in transfer learning with resnet_v2 task.
  
 ## Problem
  We tried to make this project as optimal for the result as good as we can. For the time being we already tried every method and every algorithm, but for this case our problem is only small data for every class. We already tried to classify every images. the result still need more images for every 1 model batik image. We understand this problem may not sure to make our result better but we must try our best to finish this project as natural as possible.
@@ -42,6 +43,7 @@ model image to implement using this algorithm
 <table>
   <tr>
     <td align="center"><img src="https://avatars3.githubusercontent.com/u/53148786?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Christian W</b></sub></a><br /></td>
+    <td align="center"><img src="https://avatars3.githubusercontent.com/u/47228746?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Kemal Maulidiasani</b></sub></a><br /></td>
    
   </tr>
  
