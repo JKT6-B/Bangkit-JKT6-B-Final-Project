@@ -20,6 +20,13 @@ For basic use Batik-group.rar to learn about the data partition before we start 
 * This model using transfer learning to improve the optimization and getting the loss function.
 * Try to configure the model from conv2D or using other optimization or loss to make the data more optimal
 * You can use other sample image using this code and try it yourself.
+### 2. Resnet50_v2
+* You can try the code in this repo Batik-resnet_v2_metric.ipynb.
+* Get the dataset and import into notebook.
+* This model using transfer learning to improve the optimization and getting the loss function.
+* Try to configure the model from conv2D or using other optimization or loss to make the data more optimal
+* Try to change path for target image and collection of images.
+* You can use other sample image using this code and try it yourself.
 ### 2. Siamese Neural Network
 * You can try the code in this repo, even though we have 2 files.
 * Batik-Siamese-4_2.ipynb in folder program is recognizing batik with 4 images for train and 2 for test
