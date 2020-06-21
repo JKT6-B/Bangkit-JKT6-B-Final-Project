@@ -54,7 +54,7 @@ model image to implement using this algorithm
    <td align="center"><img src="https://avatars1.githubusercontent.com/u/57791152?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Asriyanti Ali</b></sub></a><br /></td>   
     <td align="center"><img src="https://avatars1.githubusercontent.com/u/53148786?s=460&u=dacb93f2cc602a32c8a96ae63335d224da6126a7&v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Christian W</b></sub></a><br /></td>
     <td align="center"><img src="https://avatars3.githubusercontent.com/u/47228746?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Kemal Maulidiasani</b></sub></a><br /></td>
-   <td align="center"><img src="https://avatars2.githubusercontent.com/u/7820402?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Limin Mandrawa</b></sub></a><br /></td> 
+   <td align="center"><img src="https://avatars2.githubusercontent.com/u/7820402?s=400&u=f5151bf5a5ab37e0f68d07f87f7b7c0833809dc8&v=4" width="100px;" alt=""/><br /><sub><b>Limin Mandrawa</b></sub></a><br /></td> 
    
   </tr>
  
