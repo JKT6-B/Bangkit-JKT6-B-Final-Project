@@ -5,7 +5,7 @@ Thank you to Bangkit program and thank you to Google, Gojek, Tokopedia, and Trav
 * [Dataset](README.md#Dataset)
 * [Problem](README.md#Problem)
 * [Documentation](README.md#Documentation)
-* [Reference](README.md#References)
+* [References](README.md#References)
 
 ## Dataset 
  We make sure to thank you to Mr Agus that provide us with [Batik300 dataset](https://github.com/agusekominarno/Batik) for public consumption. Batik300 datasets really help us to explore batik much more and gave us knowledge about batik. 
